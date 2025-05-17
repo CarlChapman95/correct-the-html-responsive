@@ -182,7 +182,7 @@ hr {
 		margin: 0;
 	}
 	.container {
-		display: grid;
-		grid-template-columns: 90% 90%;
+		display: flex;
+		justify-content: space-between;
 	}
 }
