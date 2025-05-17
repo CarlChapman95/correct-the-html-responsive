@@ -181,4 +181,8 @@ hr {
 		border-radius: 0.6rem;
 		margin: 0;
 	}
+	.container {
+		display: grid;
+		grid-template-columns: 90% 90%;
+	}
 }
